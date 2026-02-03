@@ -2,7 +2,7 @@
 sidebar_position: 3
 ---
 
-# Common Issues
+# FAQs
 
 ### Q: Qleaner reports files as unused that are actually used.
 **A:** Check your configuration. Most commonly, this happens when `codeAlias` is incorrect or `paths` is not configured properly. Verify that Qleaner can resolve your import aliases:
