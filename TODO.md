@@ -1,2 +1,0 @@
-- Change the qhala org placeholder to the actual org name
-- 
