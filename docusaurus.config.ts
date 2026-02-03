@@ -84,7 +84,7 @@ const config: Config = {
           items: [
             {
               label: 'Commands',
-              to: '/commands',
+              to: '/category/commands',
             },
           ],
         },
